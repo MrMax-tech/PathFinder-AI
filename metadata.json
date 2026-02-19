@@ -1,0 +1,7 @@
+{
+  "name": "PathFinder AI",
+  "description": "Dynamic Career Decision Intelligence System providing AI-driven career recommendations, ATS resume analysis, and adaptive learning paths.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
